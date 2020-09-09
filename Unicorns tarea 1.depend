@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1599510193 source:c:\users\macar\desktop\unicorns tarea 1\funciones.c
+	"funciones.h"
+
+1599081395 source:c:\users\macar\desktop\unicorns tarea 1\list.c
+	<string.h>
+	"list.h"
+
+1598460905 c:\users\macar\desktop\unicorns tarea 1\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1599509753 source:c:\users\macar\desktop\unicorns tarea 1\main.c
+	"funciones.h"
+	"list.h"
+
+1599508775 c:\users\macar\desktop\unicorns tarea 1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"list.h"
+
